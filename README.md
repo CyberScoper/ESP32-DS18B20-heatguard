@@ -1,4 +1,6 @@
-# HeatGuard 🔥🏠
+# HeatGuard 🔥🏠 
+
+[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/heatguard/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/heatguard)
 
 <img src="https://github.com/user-attachments/assets/a1c779a0-c684-49df-ba12-f5cc9c0bc62d" alt="HeatGuard Demo" width="300"/>
 
