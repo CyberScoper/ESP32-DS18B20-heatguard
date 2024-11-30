@@ -1,5 +1,7 @@
 # HeatGuard 🔥🏠
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ea608a1be7ed444cb860f40f3f0224a6)](https://app.codacy.com/gh/CyberScopeToday/heatguard?utm_source=github.com&utm_medium=referral&utm_content=CyberScopeToday/heatguard&utm_campaign=Badge_Grade)
+
 <img src="https://github.com/user-attachments/assets/a1c779a0-c684-49df-ba12-f5cc9c0bc62d" alt="HeatGuard Demo" width="300"/>
 
 ## Table of Contents
