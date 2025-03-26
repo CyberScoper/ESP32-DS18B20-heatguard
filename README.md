@@ -1,6 +1,6 @@
 # HeatGuard 🔥🏠 
 
-[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/ESP32-DS18B20-heatguard/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/heatguard)
+[![CodeFactor](https://www.codefactor.io/repository/github/CyberScoper/ESP32-DS18B20-heatguard/badge)](https://www.codefactor.io/repository/github/CyberScoper/heatguard)
 
 <img src="https://github.com/user-attachments/assets/a1c779a0-c684-49df-ba12-f5cc9c0bc62d" alt="HeatGuard Demo" width="300"/>
 
@@ -68,7 +68,7 @@
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/CyberScopeToday/ESP32-DS18B20-heatguard.git
+git clone https://github.com/CyberScoper/ESP32-DS18B20-heatguard.git
 ```
 
 ### 2. 📚 Install Arduino Libraries
@@ -212,7 +212,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## 📧 Contact
 
-For any questions or suggestions, feel free to [open an issue](https://github.com/CyberScopeToday/heatguard/issues) or contact me directly.
+For any questions or suggestions, feel free to [open an issue](https://github.com/CyberScoper/heatguard/issues) or contact me directly.
 
 ---
 
